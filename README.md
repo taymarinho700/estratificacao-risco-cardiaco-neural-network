@@ -28,7 +28,7 @@ Este projeto implementa uma rede neural binária desenvolvida inteiramente **"fr
 ### Matriz de Confusão (Conjunto de Teste)
 - **Verdadeiros Positivos (Doentes Identificados):** 5.596
 - **Falsos Negativos (Risco Não Detectado):** Apenas 197 casos (minimizados estrategicamente pelo limiar de 35%).
-
+  ![Gráfico de Resultados](grafico_resultados.png)
 ---
 
 ## 🧬 Interpretação dos Exames (Explainability)
