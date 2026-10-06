@@ -25,6 +25,9 @@ Este projeto implementa uma rede neural binária desenvolvida inteiramente **"fr
 | **Recall (Sensibilidade)** | **97%** | Alta taxa de identificação de pacientes realmente doentes. |
 | **Acurácia Geral** | **91%** | Desempenho consistente em 12.500 casos de teste. |
 
+### Visualização dos Resultados e Impacto dos Atributos
+![Gráfico de Resultados](grafico_resultados.png)
+
 ### Matriz de Confusão (Conjunto de Teste)
 - **Verdadeiros Positivos (Doentes Identificados):** 5.596
 - **Falsos Negativos (Risco Não Detectado):** Apenas 197 casos (minimizados estrategicamente pelo limiar de 35%).
